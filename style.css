@@ -1,0 +1,123 @@
+#main{
+    background-image: url(bnrr\ 2.webp);
+height: 700px;
+background-size: cover;
+    
+}
+
+#main img{
+    padding-left: 50px;
+}
+.header{
+ padding: 20px 0px;
+ background-color:orange;
+}
+.models
+{
+width: 80px;
+margin: 0px;
+}
+.wrapper{
+    display: flex;
+    justify-content:space-between ;
+    align-items: center;
+}
+.a{
+
+    text-decoration: none;
+    color: white;
+}
+.child-1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
+}
+.child-1 a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 10px;
+  text-decoration: none;
+  color:white ;
+  
+}
+.child-2 a{
+    color: #fff;
+    margin-right: 50px;
+    padding:10px 40px ;
+    background-color: #FF4D01;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 10px;
+}
+.tag{
+    gap: 20px;
+}
+.child-3{
+    margin-top: 20px;
+    gap: 5px;
+    display: flex;
+
+}
+.child-3 img{
+    width: 50%;
+}
+.child-4 img{
+ width:35% ;
+ margin-top: -150px;
+}
+.child-4{
+    display: flex;
+    margin: 20%;
+    gap: 5px;
+    justify-content: center;
+    align-items: center;
+    height:auto ;
+}
+.child-5 {
+    background-color: black;
+    height: 120px;
+    margin-top: px;
+   
+}
+
+.child-5 h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+   padding-top: 20px;
+   margin-left: 80%;
+}
+.child-5 img{
+    margin-top: -10px;
+    margin-left: 80%;
+}
+
+.child-6 a,h1{
+    font-size: 1rem;
+    color: black;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.child-6{
+    gap: 100px;
+    display: flex;
+    justify-content: center;
+    margin-left: -200px;
+    margin-top: 100px;
+    padding-bottom: 100px;
+}
+
+.part-2{
+    background-color: #1F3B4D;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+    
+}
+.part-2 a{
+
+    font-size: 1rem;
+    color: white;
+    text-decoration: none;
+    margin-left: 10%;
+}
